@@ -9,8 +9,9 @@ __pycache__/
 .venv/
 venv/
 
-# Raw data (too large for GitHub)
+# Raw/full data (too large for GitHub)
 marketing_campaign_dataset.csv
+cleaned_campaign_data.csv
 
 # OS
 .DS_Store
